@@ -1,0 +1,12 @@
+/* Screenshot File Format */
+"%@ %@ at %@" = "%1$@ %2$@ à %3$@";
+
+/* Date Separator String */
+"-" = "-";
+
+/* Time Separator String */
+"." = ".";
+
+/* Upload File Name Prefix */
+"Mobile Upload" = "Mobile Upload";
+
