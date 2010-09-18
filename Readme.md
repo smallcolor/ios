@@ -17,7 +17,9 @@ The best way to get your changes merged back into core is as follows:
 7. Push the branch up to GitHub
 8. Send [us](http://github.com/cloudapp/) a pull request for your branch
 
-###License
+_All contributions must be under BSD License._
+
+###License (BSD)
 
 Copyright &copy; 2010, CloudApp S.L.
 All rights reserved.
