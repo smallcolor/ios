@@ -19,7 +19,7 @@ The best way to get your changes merged back into core is as follows:
 
 ###License
 
-Copyright (c) 2010, CloudApp S.L.
+Copyright &copy; 2010, CloudApp S.L.
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
