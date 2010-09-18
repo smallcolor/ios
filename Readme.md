@@ -1,4 +1,4 @@
-We are adding some documentation and a roadmap this week.
+Bug fixes are always welcome. If you want to add new features please wait until we publish a roadmap next week.
 
 ###Contribute
 
