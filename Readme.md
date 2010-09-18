@@ -1,4 +1,4 @@
-Bug fixes are always welcome. If you want to add new features please wait until we publish a roadmap next week.
+[Bug fixes](https://github.com/cloudapp/ios/issues/) are always welcome. If you want to add new features please wait until we publish a roadmap next week.
 
 ###Contribute
 
