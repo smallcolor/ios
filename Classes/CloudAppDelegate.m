@@ -17,7 +17,8 @@
 #pragma mark -
 #pragma mark Application lifecycle
 
-- (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {    
+- (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
+    NSLog(@"haha");
     CLUploadViewController *setView = [[CLUploadViewController alloc] initWithNibName:@"CLUploadViewController" bundle:nil];
     [window addSubview:setView.view];
     // Override point for customization after application launch.
